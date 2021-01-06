@@ -7,6 +7,8 @@ The dataset comprises 12 plant species.
 
 The goal of the competition is to create a classifier capable of determining a plant's species from a photo.
 
-Dataset: The project is from a dataset from Kaggle. Link to the Kaggle project site:https://www.kaggle.com/c/plant-seedlings-classification/data
+Dataset: The project is from a dataset from Kaggle. 
+
+Link to the Kaggle project site:https://www.kaggle.com/c/plant-seedlings-classification/data
 
 
